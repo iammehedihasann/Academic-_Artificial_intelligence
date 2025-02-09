@@ -5,5 +5,5 @@ for num in numbers:
     if num % 3 == 0 and num % 5 != 0:
         total_sum += num
 
-print("The sum of numbers these number that are divisible by 3 but not 5 is :", total_sum)
+print("The sum of numbers  divisible by 3 but not 5 is :", total_sum)
 
